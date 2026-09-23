@@ -16,3 +16,7 @@ h1, h2, h3 {
     font-family: "DM Serif Display", serif; 
     font-weight: 400;
 }
+
+.bg-peach {
+    background-color: #FFB07C;
+}
